@@ -1,0 +1,11 @@
+hackathon work load and teams:
+
+1) team vj:
+tank creation and movement
+
+2) team tt:
+turrent movement and explotion
+
+3) team na:
+menu using tinter 
+
